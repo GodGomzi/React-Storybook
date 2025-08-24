@@ -57,13 +57,3 @@ I structured the project with scalability and maintainability in mind, following
 * **Automated Documentation**: I used Storybook not just as a gallery, but as a comprehensive documentation tool. The `autodocs` feature automatically generates a props table and usage examples, ensuring that the documentation stays in sync with the code and provides an interactive playground for developers.
 
 * **TypeScript and Type Safety**: The entire project is built with TypeScript. I used generics for the `DataTable` to make it highly reusable for any data structure and ensured all props and functions were strongly typed to improve the developer experience and prevent bugs.
-# React + TypeScript + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-```
