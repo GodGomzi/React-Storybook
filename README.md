@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 1.  **Clone the repository:**
     ```bash
     git clone [(https://github.com/GodGomzi/React-Storybook.git)]
-    cd your-repo-name
+    cd React-Storybook
     ```
 
 2.  **Install dependencies:**
